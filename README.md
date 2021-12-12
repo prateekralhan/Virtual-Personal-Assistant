@@ -1,6 +1,10 @@
 # Virtual Personal Assistant 🤖
 A python based virtual assistant that provides you weather updates, automate tasks by voice controlled usage of your personal apps ( Notepad, CMD, Discord etc. ), browse through wikipedia, google, youtube and much more!! 😉
 
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/145713393-b10aa9e4-5da7-4416-9144-0796e40fb3d2.jpg" data-canonical-src="https://user-images.githubusercontent.com/29462447/145713393-b10aa9e4-5da7-4416-9144-0796e40fb3d2.jpg"/> 
+</kbd>
+
 ## Installation:
 Simply run ***pip install -r requirements.tx*** to install all the necessary dependencies. In case you find issues installing any package, simply navigate [here](https://www.lfd.uci.edu/~gohlke/pythonlibs/) and download the concerned whl files for your package.
 
