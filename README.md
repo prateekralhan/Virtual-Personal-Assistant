@@ -1,4 +1,4 @@
-# Virtual Personal Assistant 🤖
+# Virtual Personal Assistant 🤖 [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
 A python based virtual assistant that provides you weather updates, automate tasks by voice controlled usage of your personal apps ( Notepad, CMD, Discord etc. ), browse through wikipedia, google, youtube and much more!! 😉
 
 <kbd>
